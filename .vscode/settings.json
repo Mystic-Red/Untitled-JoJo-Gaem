@@ -1,0 +1,14 @@
+{
+    "robloxLsp.workspace.ignoreDir": [
+        ".vscode",
+        "**/_Index/**",
+        "**/Modules/**",
+        "**/Packages/**",
+        "**default.project.json**"
+    ],
+    "luau-lsp.types.ignore": [
+        "**/Packages/**",
+        "**/Modules/**",
+        "**default.project.json**"
+    ]
+}
