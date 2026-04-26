@@ -26,11 +26,7 @@ To keep the codebase clean and functional, please follow these standards:
 
 1. **Strict Luau:** Use `--!strict` at the top of every new script.
 
-2. **Architecture:** Follow the **Knit** (Service/Controller) pattern.
-
-3. **Networking:** Do not use standard RemoteEvents for high-frequency data; use the established **Zap** or **BridgeNet2** structures.
-
-4. **Mobile First:** Ensure any new input or UI element is compatible with **Android** using `ContextActionService`.
+2. **Mobile First:** Ensure any new input or UI element is compatible with **Android** using `ContextActionService`.
 
 
 ## Pull Request Process

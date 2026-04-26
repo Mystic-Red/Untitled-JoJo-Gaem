@@ -3,12 +3,10 @@
         ".vscode",
         "**/_Index/**",
         "**/Modules/**",
-        "**/Packages/**",
-        "**default.project.json**"
+        "**/Packages/**"
     ],
     "luau-lsp.types.ignore": [
         "**/Packages/**",
-        "**/Modules/**",
-        "**default.project.json**"
+        "**/Modules/**"
     ]
 }
