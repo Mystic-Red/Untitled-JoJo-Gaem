@@ -17,9 +17,3 @@ Stand Models/
 stands.md
 src/ReplicatedStorage/AdminStands/
 src/ReplicatedStorage/Assets/AdminStands/
-
-# TypeScript
-/node_modules
-/out
-/include
-*.tsbuildinfo
